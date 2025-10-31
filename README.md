@@ -2,10 +2,10 @@
 
 
 Características principales
-- Inicio de sesión con Supabase (auth client).
+- Inicio de sesión con Supabase.
 - CRUD de Productos, Categorías y Proveedores.
-- Registro/creación de usuarios desde el panel (metadata: nombre/apellido).
-- Movimientos de inventario y alertas de stock (triggers/migraciones incluidas).
+- Registro/creación de usuarios desde el panel.
+- Movimientos de inventario y alertas de stock.
 - Notificaciones y confirmaciones con SweetAlert2 para mejor UX.
 
 Tecnologías
