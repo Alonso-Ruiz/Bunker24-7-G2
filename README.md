@@ -1,6 +1,5 @@
 ## Bunker 24/7 — Sistema de Inventario (breve)
 
-> Aplicación SPA para gestionar inventario: productos, categorías, proveedores, movimientos y alertas. Autenticación con Supabase y UI rápida con Vite + React + TypeScript.
 
 Características principales
 - Inicio de sesión con Supabase (auth client).
