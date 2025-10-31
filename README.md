@@ -1,4 +1,4 @@
-## Bunker 24/7 — Sistema de Inventario (breve)
+## Bunker 24/7 — Sistema de Inventario 
 
 
 Características principales
